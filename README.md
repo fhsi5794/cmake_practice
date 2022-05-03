@@ -1,1 +1,2 @@
-# cmake_practice
+# CMack Practice
+We will practice CMake here !  
